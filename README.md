@@ -1,5 +1,6 @@
 
 <p align="center">
+  <code><img title="threejs" height="25" src="images/threejs.png"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.jpg"></code>
   <code><img title="Neovim" height="25" src="images/neovim.png"></code>
