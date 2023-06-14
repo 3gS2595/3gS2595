@@ -6,8 +6,6 @@
   <code><img title="rails" height="20" src="images/rails.png"></code>
   <code><img title="Python" height="20" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="20" src="images/javascript.jpg"></code>
-  <code><img title="HTML5" height="20" src="images/html5.svg"></code>
-  <code><img title="CSS" height="20" src="images/css.svg"></code>
   <code><img title="React" height="20" src="images/react-original.svg"></code>
   <code><img title="PostgreSQL" height="20" src="images/postgresql.svg"></code>
   <code><img title="Java" height="20" src="images/java-original.svg"></code>
