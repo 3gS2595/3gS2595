@@ -8,6 +8,6 @@
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Java" height="10" src="images/java-original.svg"></code>
 </p>
 
