@@ -16,5 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Madrid
+          base: no
           plugin_languages: yes
           config_order: languages
