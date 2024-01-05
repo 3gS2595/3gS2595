@@ -1,1 +1,15 @@
 <img src="/github-metrics.svg" width="49%">
+
+## Current Focus: 
+http://3.130.240.169: Centralizes and accelerates artistic practice, research, and development. Functionality supports organizing, viewing and uploading media, coupled with unprecedented data mining abilities, where users can farm content in real time from any mainstream external platform. 
+
+- Front end: 
+  - Typescript, Vue, SCSS, Pinia, Devise, Vue-force-graph, Vanilla-tilt.js, Tiptap, Vue3-pdf-app, Axios, AWS-EC2, 
+
+- Back end: 
+  - Ruby, Rails, ActiveRecord, PostgreSQL, Devise, Carrierwave, Ransack, Kaminari, ImageMagick, AWS-Sigv4, AWS-EC2, DigitalOcean-AWS-S3
+
+- Redis/Sidekiq Data Scraping: 
+  - Ruby, ActiveRecord, PostgreSQL, Redis, Sidekiq, Tanakai, Nokogiri, AWS-EC2, DigitalOcean-AWS-S3, Tumblr-API, Are.na-API, Discord-API, Instagram-API
+
+
