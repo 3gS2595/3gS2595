@@ -1,4 +1,4 @@
-<img src="/github-metrics.svg" width="49%">
+<img src="/github-metrics.svg" width="100%">
 
 Current: <br>
 http://3.130.240.169: Centralizes and accelerates artistic practice, research, and development. Functionality supports organizing, viewing and uploading media, coupled with unprecedented data mining abilities, where users can farm content in real time from any mainstream external platform. 
