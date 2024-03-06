@@ -4,7 +4,7 @@
 <br/>
 
 Current: <br>
-http://3.130.240.169: Centralizes and accelerates artistic practice, research, and development. Functionality supports organizing, viewing and uploading media, coupled with unprecedented data mining abilities, allowing users to analyze archived and real time media from any mainstream external platform. 
+http://3.130.240.169 || http://nexus.crystal.hair : Centralizes and accelerates artistic practice, research, and development. Functionality supports organizing, viewing and uploading media, coupled with unprecedented data mining abilities, allowing users to analyze archived and real time media from any mainstream external platform. 
 
 - Front: Typescript, Vue, SCSS, Pinia, Devise, Vue-force-graph, Vanilla-tilt.js, Tiptap, Vue3-pdf-app, Axios, AWS-EC2, 
 
