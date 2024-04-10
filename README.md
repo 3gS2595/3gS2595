@@ -1,9 +1,9 @@
 
-## &nbsp;&nbsp;&nbsp;𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## &nbsp;𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
 [![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/crystal.hair-frontend-vuejs&mode=light&style=horizontal)](https://github.com/3gS2595/crystal.hair-frontend-vuejs)
 
-## &nbsp;&nbsp;&nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 &nbsp;Languages: 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
