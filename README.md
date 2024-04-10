@@ -1,5 +1,9 @@
 ### ⊱ ँั๊ྃ ⊰ Hello Moto !!
 - Daily drivers: `.ts`, `.vue`, `.rb`, `.onnx`, `.py`, `.psd`, `.blend`
+- 
+## Current Focus
+[![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 &nbsp;Languages: 
@@ -29,9 +33,7 @@
 ![AWS](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-[![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 
 
