@@ -1,6 +1,6 @@
 ### ⊱ ँั๊ྃ ⊰ Hello Moto !!
 - Daily drivers: `.ts`, `.vue`, `.rb`, `.onnx`, `.py`, `.psd`, `.blend`
-- 
+  
 ## Current Focus
 [![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
 
