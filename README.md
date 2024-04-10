@@ -1,7 +1,6 @@
 
 ## &nbsp;𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
-[![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/crystal.hair-frontend-vuejs&mode=light&style=horizontal)](https://github.com/3gS2595/crystal.hair-frontend-vuejs)
 
 ## &nbsp;𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 &nbsp;Languages: 
