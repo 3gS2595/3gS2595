@@ -1,3 +1,7 @@
+### 'Ello Moto !
+
+#### Full-Stack by day ☼ Designer by night ☾
+- Recently, active daily with: `.ts`, `.vue`, `.rb`, `.onnx`, `.psd`, `.blend`
 
 ## &nbsp;𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 [![crystal.hair](https://svg.bookmark.style/api?url=https://github.com/3gS2595/resnet-50-CNN-image-tagging&mode=light&style=horizontal)](https://github.com/3gS2595/resnet-50-CNN-image-tagging)
