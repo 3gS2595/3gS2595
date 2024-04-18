@@ -1,4 +1,4 @@
-## ⊱ ँั๊ྃ ⊰ Hello Moto ! ΄ ิ̤ ิ ̤੯ੁૂ‧̀͡ ❛ั
+ Hello Moto ! 
 
 - Daily drivers: `.ts`, `.vue`, `.rb`, `.onnx`, `.py`, `.psd`, `.blend`
   
